@@ -38,8 +38,11 @@ Table & Filter Functions, generate new data, etc., Calculated Table Joins, Creat
 hands-on understanding on 100+ tools and techniques. These methods are essential to participate in DMAIC improvement projects. DMAIC stands for Define, Measure, Analyse, Improve and Control. These are the 5 Phases of a Six Sigma Improvement project. This is the only course that teaches these 5 Phases in 15 structured steps helping you understand the entire methodology in thorough detail. By taking up this certification course professionals (like you) can identify the problems and implement solutions to eradicate them.
 [Show credential](https://www.udemy.com/certificate/UC-c2de3c6e-4739-4ebc-b0ce-d5dfe2b01075/)
 
+## 10 [Programming with python](https://github.com/nitinsoni1/Certificates/blob/main/Programming%20with%20Python%20Training%20-%20Certificate%20of%20Completion.pdf)
+The training consisted of Introduction to Python, Using Variables in Python, Basics of Programming in Python, Principles of Object-oriented Programming (OOP),Connecting to SQLite Database, Developing a GUI with PyQT, and Application of Python in Various Disciplines modules.
+[Show credential](https://trainings.internshala.com/verify-certificate/)
 
-
-
-
+## 11 [Data Processing Specialist](https://github.com/nitinsoni1/Certificates/blob/main/Data%20Processing%20Specialist.png)
+## 12 [Data Analytics Consulting Virtual Internship - KPMG Australia](https://github.com/nitinsoni1/Certificates/blob/main/m7W4GMqeT3bh9Nb2c_KPMG%20Australia_KWXnAiyrms2JZE46A_1650136851432_completion_certificate.pdf)
+## 13 [Data Analytics Virtual Experience - ACCENTURE North-America](https://github.com/nitinsoni1/Certificates/blob/main/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_KWXnAiyrms2JZE46A_1650262279418_completion_certificate.pdf)
 
