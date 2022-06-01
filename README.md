@@ -16,3 +16,7 @@ Communication Skills │ Presentation Skills│ Soft Skills │ Career Guidance 
 │ Group Discussion Skills│ Interview Skills │ Business Etiquette │ Effective Email Writing │ Telephone 
 Etiquette │ Accounting Fundamentals │ IT Foundational Skills │ Overview of Artificial
 [Show credential](https://github.com/nitinsoni1/Certificates/blob/main/Nitin_Soni_1897940.pdf)
+
+## 5 [The Ultimate MySQL Bootcamp](https://github.com/nitinsoni1/Certificates/blob/main/UC-96dcad56-91ba-4c05-90de-369e4a85185c.pdf)
+Learn the ins and outs of SQL syntax, Generate reports using sales and user data, Analyze data using Aggregate Functions, Run complex queries using MySQL logical operators and string functions, Write all the common SQL joins, Work with large datasets containing thousands of entries, Build a web app using MySQL and NodeJS, Design and implement complex database schemas.
+[Show credential](https://www.udemy.com/certificate/UC-96dcad56-91ba-4c05-90de-369e4a85185c/)
