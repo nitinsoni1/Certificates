@@ -28,3 +28,18 @@ Supply Chain Logistics, Supply Chain Operations, Supply Chain Planning, Supply C
 ## 7 [Microsoft Power BI Desktop for Business Intelligence](https://github.com/nitinsoni1/Certificates/blob/main/UC-09744b76-5aac-4d87-91cb-baa34c71b135.pdf)
 Connect & Transform the Raw Data,  Build a Relational Data Model, Add Calculated Fields with DAX, Design Interactive Power BI Reports.
 [Show credential](https://www.udemy.com/certificate/UC-09744b76-5aac-4d87-91cb-baa34c71b135/)
+
+
+## 8 [Advanced DAX for Microsoft Power BI Desktop](https://github.com/nitinsoni1/Certificates/blob/main/UC-b0854444-b882-4e4c-b8ad-f696cb45640d.pdf)
+Table & Filter Functions, generate new data, etc., Calculated Table Joins, Create calculated joins between physical and virtual tables in Power BI (UNION, EXCEPT, INTERSECT, Relationship Functions, Explore expanded tables, physical & virtual relationships, common relationship functions, Iterator ("X") Functions, Explore iterator cardinality, nested iterators, RANKX, DAX calculation granularity, Advanced Time Intelligence, Build date tables, compare custom time periods, manage fiscal calendars.
+[Show credential](https://www.udemy.com/certificate/UC-b0854444-b882-4e4c-b8ad-f696cb45640d/)
+
+## 9 [Lean Six Sigma Green Belt (accredited)](https://github.com/nitinsoni1/Certificates/blob/main/ZSSGB121144117%20-%20Nitin%20Soni.pdf)
+hands-on understanding on 100+ tools and techniques. These methods are essential to participate in DMAIC improvement projects. DMAIC stands for Define, Measure, Analyse, Improve and Control. These are the 5 Phases of a Six Sigma Improvement project. This is the only course that teaches these 5 Phases in 15 structured steps helping you understand the entire methodology in thorough detail. By taking up this certification course professionals (like you) can identify the problems and implement solutions to eradicate them.
+[Show credential](https://www.udemy.com/certificate/UC-c2de3c6e-4739-4ebc-b0ce-d5dfe2b01075/)
+
+
+
+
+
+
