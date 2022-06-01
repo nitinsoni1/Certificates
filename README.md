@@ -20,3 +20,11 @@ Etiquette │ Accounting Fundamentals │ IT Foundational Skills │ Overview of
 ## 5 [The Ultimate MySQL Bootcamp](https://github.com/nitinsoni1/Certificates/blob/main/UC-96dcad56-91ba-4c05-90de-369e4a85185c.pdf)
 Learn the ins and outs of SQL syntax, Generate reports using sales and user data, Analyze data using Aggregate Functions, Run complex queries using MySQL logical operators and string functions, Write all the common SQL joins, Work with large datasets containing thousands of entries, Build a web app using MySQL and NodeJS, Design and implement complex database schemas.
 [Show credential](https://www.udemy.com/certificate/UC-96dcad56-91ba-4c05-90de-369e4a85185c/)
+
+## 6 [Supply Chain Management Specialization](https://github.com/nitinsoni1/Certificates/blob/main/Coursera%202DDWT9TXB8L9.pdf)
+Supply Chain Logistics, Supply Chain Operations, Supply Chain Planning, Supply Chain Sourcing, Supply Chain Management Strategy.
+[Show credential](https://www.coursera.org/account/accomplishments/specialization/certificate/2DDWT9TXB8L9)
+
+## 7 [Microsoft Power BI Desktop for Business Intelligence](https://github.com/nitinsoni1/Certificates/blob/main/UC-09744b76-5aac-4d87-91cb-baa34c71b135.pdf)
+Connect & Transform the Raw Data,  Build a Relational Data Model, Add Calculated Fields with DAX, Design Interactive Power BI Reports.
+[Show credential](https://www.udemy.com/certificate/UC-09744b76-5aac-4d87-91cb-baa34c71b135/)
